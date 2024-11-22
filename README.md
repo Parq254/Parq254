@@ -41,7 +41,7 @@ Hello there,I'm a Fullstack Cloud Developer.<img src="https://media.giphy.com/me
   <img src='https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg' title='Blender' alt='Blender' width='40' height='40'/>&nbsp;
   <img src='https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg 'title='Bootstrap' alt='Bootstrap' width='40' height='40'/>&nbsp;
   <img src='https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg 'title='Django' alt='Django' width='40' height='40'/>&nbsp;
-  <img src='https://github.com/devicons/devicon/blob/master/icons/aws/aws-original.svg 'title='AWS' alt='AWS' width='40' height='40'/>&nbsp;
+  <img src='https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg 'title='AWS' alt='AWS' width='40' height='40'/>&nbsp;
   <img src='https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg' title='Github' alt='Github' width='40' height='40'/>&nbsp;
   <img src='https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg' title='Jupyter' alt='Jupyter' width='40' height='40'/>&nbsp;
   <img src='https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original.svg' title='Kaggle' alt='Kaggle' width='40' height='40'/>&nbsp;

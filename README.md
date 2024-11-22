@@ -22,11 +22,13 @@
 
 ### :man_technologist: About Me :
 </div>
-I'm a Passionate Full-Stack Cloud Developer with a focus on crafting elegant and efficient web applications. Proficient in JavaScript, React, Node.js, and Python. Currently exploring Machine Learning and AI. Always eager to learn and collaborate on exciting projects.
+I'm a Passionate Full-Stack Cloud Developer with a focus on crafting elegant and efficient web applications. 
+Proficient in JavaScript, React, Node.js, and Python. Currently exploring Machine Learning and AI. 
+Always eager to learn and collaborate on exciting projects.
 
 ---
 
-### : Languages and Tools :
+###  Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;

@@ -22,7 +22,7 @@
 
 ### :man_technologist: About Me :
 </div>
-Hello there,I'm a Fullstack Cloud Developer.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/> 
+Hello there,I'm a Fullstack Cloud Developer. 
 
 - :telescope: I’m currently a Fullstack cloud Developer and Data Analyst.
 

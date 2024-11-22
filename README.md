@@ -20,7 +20,7 @@
 <div align="center">
 
 
-### :man_technologist: About Me :
+###About Me :
 </div>
 Hello there,I'm a Fullstack Cloud Developer.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/> 
 

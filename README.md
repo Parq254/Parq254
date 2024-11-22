@@ -26,13 +26,12 @@
 
 ### :man_technologist: About Me :
 </div>
-I am a Data Nerd and Python Developer from Kenya.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/> 
+Hello there,I'm a Fullstack Cloud Developer.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/> 
 
-- :telescope: I’m working as a Freelance Data Analyst and contributing to frontend and backend for building web applications.
+- :telescope: I’m currently a Fullstack cloud Developer and Data Analyst.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring Technical Content Writing and Learning how to leverage technology with AI.
 
-- :zap: In my free time, I learn from CS50 and read tech articles.
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -42,6 +41,7 @@ I am a Data Nerd and Python Developer from Kenya.<img src="https://media.giphy.c
   <img src='https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg' title='Blender' alt='Blender' width='40' height='40'/>&nbsp;
   <img src='https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg 'title='Bootstrap' alt='Bootstrap' width='40' height='40'/>&nbsp;
   <img src='https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg 'title='Django' alt='Django' width='40' height='40'/>&nbsp;
+  <img src='https://github.com/devicons/devicon/blob/master/icons/aws/aws-original.svg 'title='AWS' alt='AWS' width='40' height='40'/>&nbsp;
   <img src='https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg' title='Github' alt='Github' width='40' height='40'/>&nbsp;
   <img src='https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg' title='Jupyter' alt='Jupyter' width='40' height='40'/>&nbsp;
   <img src='https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original.svg' title='Kaggle' alt='Kaggle' width='40' height='40'/>&nbsp;
